@@ -1,6 +1,6 @@
 title:            Jonny Heavey
-description:      Where my discoveries and opinions hang out.
-disqus_shortname:
+description:      All things front-end development.
+disqus_shortname: jonnyheavey
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
@@ -12,7 +12,7 @@ owner:
   name:           Jonny Heavey
   avatar:         avatar.jpg
   bio:            "I'm a UK based front-end developer working for Surevine. I love my family, football and the great outdoors."
-  email:          jonnyheavey@gmail.com
+  email:          jonnyheavey[at]gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        JonnyHeavey
   github:         JonnyHeavey

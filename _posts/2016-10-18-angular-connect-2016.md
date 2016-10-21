@@ -5,9 +5,9 @@ description: "Angular Connect 2016."
 modified: 2016-10-18
 tags: [Angular, conference]
 image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: angular.png
+  credit:
+  creditlink:
 ---
 
 A couple of weeks ago I attended Angular Connect at the Excel arena in London. This was my first time at Angular Connect (or any AngularJS conference for that matter), and having watched the 2015 sessions on YouTube I was extremely excited to attend. As it turns out, this was pretty much the perfect time to attend an Angular conference, with 2.0 final being released just days beforehand.
